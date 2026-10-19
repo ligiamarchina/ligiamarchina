@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá👋
 
-<!--
-**ligiamarchina/ligiamarchina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Quem sou eu?
+Estudante de Sistemas de Informação (Instituto Mauá, conclusão em 2027) com foco em análise de dados. Atualmente, estagio em Políticas de Crédito PF no Itaú Unibanco, unindo modelagem de dados e automação para gerar insights estratégicos de negócio.
 
-Here are some ideas to get you started:
+### 🚀 O que estou fazendo agora?
+- Desenvolvendo o **Valora** (TCC): plataforma de gestão financeira para MEIs.
+- Criando o **BusMauá**: app de rastreamento e gestão de frotas universitárias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Ferramentas e Tecnologias
+- **Linguagens:** Python, SQL, Java, JavaScript, TypeScript.
+- **Dados & BI:** Power BI, QuickSight, PostgreSQL, Estatística.
+- **Cloud:** AWS (Glue, Athena, SageMaker Studio).
+- **Outros:** React Native, Git, UML.
+
+### 📫 Como me encontrar
+- **LinkedIn:** www.linkedin.com/in/ligia-marchina
+- **E-mail:** ligiamarchina@gmail.com
