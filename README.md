@@ -1,18 +1,17 @@
-## Olá👋
+# Olá! 😎
 
-### 👩‍💻 Quem sou eu?
-Estudante de Sistemas de Informação (Instituto Mauá, conclusão em 2027) com foco em análise de dados.
+Estudante de Sistemas de Informação (Instituto Mauá, 2027) com foco em análise de dados.
 
-### 🚀 O que estou fazendo agora?
-- Desenvolvendo o **Valora** (TCC): plataforma de gestão financeira para MEIs.
-- Criando o **BusMauá**: app de rastreamento e gestão de frotas universitárias.
+### O que estou fazendo
+- Desenvolvimento do Valora (TCC): plataforma de gestão financeira para MEIs.
+- Desenvolvimento do BusMauá: aplicativo de gestão de frotas universitárias.
 
-### 🛠️ Ferramentas e Tecnologias
-- **Linguagens:** Python, SQL, Java, JavaScript, TypeScript.
-- **Dados & BI:** Power BI, QuickSight, PostgreSQL, Estatística.
-- **Cloud:** AWS (Glue, Athena, SageMaker Studio).
-- **Outros:** React Native, Git, UML.
+### Tecnologias
+- **Linguagens:** Python, SQL, Java, JavaScript, TypeScript
+- **Dados & BI:** Power BI, QuickSight, PostgreSQL, Estatística
+- **Cloud:** AWS (Glue, Athena, SageMaker Studio)
+- **Frameworks:** React Native
 
-### 📫 Como me encontrar
-- **LinkedIn:** www.linkedin.com/in/ligia-marchina
+### Contato
 - **E-mail:** ligiamarchina@gmail.com
+- **LinkedIn:** www.linkedin.com/in/ligia-marchina
