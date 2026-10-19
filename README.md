@@ -1,7 +1,7 @@
 ## Olá👋
 
 ### 👩‍💻 Quem sou eu?
-Estudante de Sistemas de Informação (Instituto Mauá, conclusão em 2027) com foco em análise de dados. Atualmente, estagio em Políticas de Crédito PF no Itaú Unibanco, unindo modelagem de dados e automação para gerar insights estratégicos de negócio.
+Estudante de Sistemas de Informação (Instituto Mauá, conclusão em 2027) com foco em análise de dados.
 
 ### 🚀 O que estou fazendo agora?
 - Desenvolvendo o **Valora** (TCC): plataforma de gestão financeira para MEIs.
